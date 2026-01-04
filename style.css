@@ -25,11 +25,12 @@ body {
         "ROND" 0;
 }
 
+
 .headline {
-    font-size: 28px;
-    line-height: 1.4;
+    font-size: 40px;
+    line-height: 1.25;
     color: #000000;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
     font-weight: 800;
     display: flex;
     flex-direction: column;
@@ -44,7 +45,7 @@ body {
 }
 
 .headline img {
-    height: 32px;
+    height: 40px;
     width: auto;
 }
 
@@ -74,11 +75,11 @@ body {
     }
 
     .headline {
-        font-size: 24px;
+        font-size: 32px;
     }
 
     .headline img {
-        height: 28px;
+        height: 32px;
     }
 
     .links a {
@@ -93,11 +94,11 @@ body {
     }
 
     .headline {
-        font-size: 20px;
+        font-size: 26px;
     }
 
     .headline img {
-        height: 24px;
+        height: 26px;
     }
 
     .links a {
